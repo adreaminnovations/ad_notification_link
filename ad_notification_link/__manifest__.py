@@ -1,6 +1,6 @@
 {
     'name': 'Notification Link',
-    'version': '18.0.1.0',
+    'version': '17.0.1.0',
     'category': 'Mail',
     'website': 'https://adreaminnovations.odoo.com',
     'author': 'ADream Innovations',
